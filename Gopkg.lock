@@ -4,12 +4,12 @@
 [[projects]]
   name = "github.com/jayconrod/modtestB"
   packages = ["b"]
-  revision = "68ce718bc292317a9698d0c1d87bf5f2d38834dd"
-  version = "v2.0.0"
+  revision = "556ab493e56891f093e7c8fefacf8dd957df1aff"
+  version = "v2.1.0"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "aff325954ab2d742bc9b79a96ed71e78efe55a69d54a786142d6a1b8716ebe75"
+  inputs-digest = "6cfa6b6455cab762d329319262eceed5ad978579ea2f3ca89af5cc82437a7ef6"
   solver-name = "gps-cdcl"
   solver-version = 1

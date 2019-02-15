@@ -1,3 +1,7 @@
 package a
 
-import _ "github.com/jayconrod/modtestB/b"
+import "github.com/jayconrod/modtestB/b"
+
+func Feature() {
+	b.Feature()
+}
